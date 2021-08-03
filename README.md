@@ -1,10 +1,10 @@
 # RoboFriends React Website
 
-To run project you will need to clone the repo then:
+To run project you will need to clone the repo then run:
 
-run 
+
 ### `npm install`
 
 
-followed by running 
+Then run:
 ### `npm start`
